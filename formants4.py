@@ -37,7 +37,7 @@ def get_formants():
     
     
     while True:                      
-        if y < 100 and y != 0:
+        if y < 51 and y != 0:
             for i in range(y):
                 j = (abs(x) * (i+1))
                 print(j)
