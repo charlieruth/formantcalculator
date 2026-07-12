@@ -1,8 +1,24 @@
 # Formant Calculator 
 
-### a a very simple practice project designed to be run in terminal. 
+## a a very simple practice project designed to be run in terminal. 
 
-Folks wishing to use the app must compile the app using the g++ command: 
+### In C++ and Python!
+
+Python code can be run in the terminal. Navigate to the file's location with:
+
+```
+cd PATH_TO_FILE
+
+ie: cd /Users/Somebody/Documents/PythonCodes
+```
+Then, run with the command:
+
+```
+python3 <FILENAME>.py
+
+```
+
+Folks wishing to use the C++ code must compile the app using the g++ command: 
 ```
 g++ PATH TO FILE -o FileName
 ```
