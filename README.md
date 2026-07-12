@@ -15,7 +15,6 @@ Then, run with the command:
 
 ```
 python3 <FILENAME>.py
-
 ```
 
 Folks wishing to use the C++ code must compile the app using the g++ command: 
