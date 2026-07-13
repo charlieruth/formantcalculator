@@ -25,7 +25,7 @@ def get_formants():
             print("How many Formants?")
             y = input()
             y = int(y)
-            if y < 0 or y > 50:
+            if y <= 0 or y > 50:
                 print("Must be a value between 1 and 50.")
                 continue
             break
